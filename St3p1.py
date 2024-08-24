@@ -13,3 +13,4 @@ result = f"Это {pet_type} по кличке \"{pet_name}\". Возраст: {
 # Выводим результат
 print(result)
 
+https://github.com/DrowASD/St3p1.git
